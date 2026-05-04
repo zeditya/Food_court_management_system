@@ -56,7 +56,7 @@ def graph():
     plt.show()
 
 win=tk.Tk()
-win.title("Food Project")
+win.title("Food management system")
 win.geometry("300x500")
 
 l1=tk.Label(win,text="Menu")
